@@ -14,7 +14,7 @@ Open the index.html file, add some form controls to the form.
 
 Give the form a submit button.
 
-Give the form an **action** attribute with a value of **https://preview.c9users.io/dphayes/it202/lab-forms-and-heroku/form_handler.php**
+Give the form an **action** attribute with a value of **https://preview.c9users.io/dphayes/it202/lab-form-basics/form_handler.php**
 
 Give the form an **id** attribute with a value of **formTest**.
 
